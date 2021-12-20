@@ -1,0 +1,11 @@
+#hover over the diagram
+right click + hover mouse
+
+#zoom in/out
+Ctrl + scroll up/down
+
+#unselect all
+Ctrl + Shift + A
+
+#search/replace text
+Ctrl + F
