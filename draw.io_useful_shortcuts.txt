@@ -9,3 +9,8 @@ Ctrl + Shift + A
 
 #search/replace text
 Ctrl + F
+
+#issue: cannot resize or drag window
+1. update your draw.io app
+2. press Alt + Space bar to open a simple window menu. Press M or click "Move". Then, move the window with Left/Right/Up/Down arrow.
+3. press Windows key + Left/Right arrow a few times. This resizes the windwo but also moves it (in a clumsy way). You can move the app to another monitor using this way.
