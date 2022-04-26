@@ -1,6 +1,9 @@
 #hover over the diagram
 right click + hover mouse
 
+#scroll left/right
+Shift + scroll up/down
+
 #zoom in/out
 Ctrl + scroll up/down
 
