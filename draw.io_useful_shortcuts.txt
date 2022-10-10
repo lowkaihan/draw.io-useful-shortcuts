@@ -1,3 +1,13 @@
+#share diagram
+move your diagram file to OneDrive
+open draw.io website https://app.diagrams.net/
+choose "Open Existing Diagram"
+navigate to your diagram file path & open your diagram
+after opening the diagram, choose "File" -> "Share..."
+you will navigate to another webpage
+choose "Share" & edit share settings.
+copy link & share.
+
 #hover over the diagram
 right click + hover mouse
 
